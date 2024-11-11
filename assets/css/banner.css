@@ -1,11 +1,11 @@
 :root {
-  --laptop-1: url("/assets/image/background/671b969087e1bd520e91baeb_s2\ copy.png");
-  --laptop-2: url("/assets/image/background/671b969087e1bd520e91baeb_s1\ copy.png");
-  --laptop-3: url("/assets/image/background/671b969087e1bd520e91baeb_s3\ copy.png");
-  --laptop-4: url("/assets/image/background/671b969087e1bd520e91baeb_s4\ copy.png");
-  --phone-1: url("https://cdn.prod.website-files.com/635a2c04e14b8d7a40909e86/671b968f4c777ef536cbce0f_s1m.png");
-  --phone-2: url("https://cdn.prod.website-files.com/635a2c04e14b8d7a40909e86/671b968f085dc0c659152135_s3m.png");
-  --phone-3: url("https://cdn.prod.website-files.com/635a2c04e14b8d7a40909e86/671b969066c359cd8931e576_s4m.png");
+  --laptop-1: url("../../assets/image/background/671b969087e1bd520e91baeb_s2\ copy.png");
+  --laptop-2: url("../../assets/image/background/671b969087e1bd520e91baeb_s1\ copy.png");
+  --laptop-3: url("../../assets/image/background/671b969087e1bd520e91baeb_s3\ copy.png");
+  --laptop-4: url("../../assets/image/background/671b969087e1bd520e91baeb_s4\ copy.png");
+  --phone-1: url("../../assets/image/background/mobile-1.png");
+  --phone-2: url("../../assets/image/background/mobile-2.png");
+  --phone-3: url("../../assets/image/background/mobile-3.png");
 }
 
 /* Container Styling */

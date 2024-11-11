@@ -9,5 +9,5 @@ window.addEventListener("load", function () {
         document.body.style.overflow = "visible";
       }, 500);
     }
-  }, 2000);
+  }, 1500);
 });
